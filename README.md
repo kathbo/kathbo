@@ -11,8 +11,4 @@ Hi! I'm Berry and I'm an aspiring front-end developer! <br>💻 self-taught<br>�
 ![](https://github-readme-stats.vercel.app/api?username=kathbo&theme=monokai&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kathbo&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathbo&theme=monokai&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kathbo&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
