@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Berry and I'm an aspiring front-end developer! <br>💻 self-taught<br>🌱 currently learning React<br>💬 shoot me an email and feel free to add me on LinkedIn! <br>
+Hi! I'm Berry and I'm an aspiring front-end developer <br>💻 self-taught<br>🌱 currently learning React<br>💬 shoot me an email and feel free to add me on LinkedIn! <br>
 
 
 ## 🌐 Socials:
